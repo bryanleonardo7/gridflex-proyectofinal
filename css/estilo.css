@@ -296,7 +296,7 @@ main {
 }
 
 .text-procesador, .text-grafica {
-  font-family: cursive;
+  font-family: 'Courier New', Courier, monospace;
   color: white;
 }
 
